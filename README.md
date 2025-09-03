@@ -71,7 +71,7 @@ Credits and references used in this README:
 
 ## 📊 GitHub Stats  
 
-[![Nelly's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nellyshrestha&bg_color=0d1117&color=00c8ff&line=00eaff&point=ffffff&area=true&area_color=00c8ff&hide_border=true)](https://github.com/nellyshrestha/github-readme-activity-graph)
+[![Nelly's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nellyshrestha&bg_color=0d1117&color=00c8ff&line=00eaff&point=ffffff&area=true&area_color=00c8ff&hide_border=true)](https://github.com/nellyshrestha/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nellyshrestha&layout=compact&theme=tokyonight)
 
