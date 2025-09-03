@@ -13,7 +13,7 @@ Credits and references used in this README:
 
 # 👋 Hi, I’m Nelly Shrestha  
 
-**`BCA Student | IoT & AI Enthusiast | Aspiring Full-Stack Developer`**  
+**`BCA Student | IoT & AI Enthusiast `**  
 
 ---
 
