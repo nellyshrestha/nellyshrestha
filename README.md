@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Nelly 👋
 
-<!--
-**nellyshrestha/nellyshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **BCA student** and developer who loves building **IoT projects, web apps, and AI/ML experiments**.  
+On my GitHub, you’ll find projects in **React, MERN, Python, and IoT (Arduino/ESP32)**.  
 
-Here are some ideas to get you started:
+🌱 Currently learning: Python, Machine Learning, and Backend Development  
+⚡ I enjoy: Coding, creating IoT solutions, and exploring new ideas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔧 Skills
+- **Languages & Tools:** JavaScript, React, Node.js, MongoDB, Python, C++  
+- **Interests:** IoT, AI/ML, Full-Stack Development  
+
+
+✨ Thanks for visiting my profile!  
