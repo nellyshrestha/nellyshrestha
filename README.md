@@ -1,4 +1,4 @@
-Hi, I’m Nelly 👋
+## Hi, I’m Nelly 👋
 
 I’m a **BCA student** and developer who loves building **IoT projects, web apps, and AI/ML experiments**.  
 On my GitHub, you’ll find projects in **React, MERN, Python, and IoT (Arduino/ESP32)**.  
