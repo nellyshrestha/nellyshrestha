@@ -61,7 +61,7 @@ Credits and references used in this README:
       </a>
       <br/>
       <b>MERN Project</b><br/>
-      <sub>Full-stack app with MongoDB, Express, React, and Node.js.</sub><br/>
+      <sub>Full-stack app with MongoDB, Express, React</sub><br/>
       🔗 <a href="https://github.com/nellyshrestha/mern">Repo</a>
     </td>
   </tr>
